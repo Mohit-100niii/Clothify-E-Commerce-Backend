@@ -1,36 +1,27 @@
-# NodeJS E-commerce API Development
+## Clothify - Ecommerce Web Application
+Developed a comprehensive MERN Stack Ecommerce Web application having functionality like User login and
+Signup, admin dashboard, Payment gateway , and order management system.
+Implemented robust user JWT for login authentication and authorization mechanisms for enhanced security.
+Integrated Stripe payment processing for secure and smooth transactions.
+Fully Responsive React.JS front-end for seamless user experience.
 
-[Level Up with your skills. Enrol at $9.9 ](https://www.udemy.com/course/nodejs-ecommerce-api-dev-build-with-mongodb-mongoose/?couponCode=NEW-COURSE)
 
-This course is designed to provide students with a comprehensive understanding of building and deploying a full-featured API. Throughout the course, students will learn about integrating Stripe for payment processing, pagination and filtering techniques, order statistics and analysis, admin process for managing orders, implementing categories and product management, order management system, building and connecting to the database, implementing user authentication and authorization, and deploying the API to a live server.
+#### View Demo: https://clothify-ecommerce-shopping-aa760f.netlify.app/
 
-# Course Content
+### ScreenShots
 
-- Introduction to NodeJS and the basics of building an API.
+[![Screenshot-2023-10-11-183553.png](https://i.postimg.cc/jS1MhRGh/Screenshot-2023-10-11-183553.png)](https://postimg.cc/HrQ0Y1WJ)
+[![Screenshot-2023-10-11-183801.png](https://i.postimg.cc/GtN45Sr6/Screenshot-2023-10-11-183801.png)](https://postimg.cc/0KY56nzC)
 
-- Setting up a development environment, creating and testing API endpoints, and connecting to a database.
 
-- Integrating Stripe for payment processing, handling webhooks, pagination and filtering techniques, and order statistics and analysis.
+## Technologies Used
+- React.JS
+- Redux
+- Taiwind CSS
+- Node.js
+- Express.js
+- Mongodb
+- JWT Tokens
 
-- Admin process for managing orders, implementing categories and product management, and order management system.
-  Best practices for building APIs, including security, performance, and scalability.
-
-Throughout the course, students will work on real-world projects, giving them hands-on experience and a solid foundation for building and maintaining APIs.
-
-# Who is this course for?
-
-This course is suitable for:
-
-- Developers who want to learn about building and deploying APIs.
-
-- Students who are new to web development and want to learn about building and deploying APIs.
-
-- Developers who want to learn about integrating Stripe for payment processing.
-
-- Engineers who are interested in learning about building e-commerce systems.
-
-- Individuals who want to learn about building and deploying a full-featured API.
-
-# Support
-
-Our experienced instructors will be available to provide guidance and support throughout the course. We encourage active participation in class discussions, asking questions and sharing knowledge with fellow students. This course is designed to provide a solid foundation for building APIs and is suitable for anyone who wants to learn more about back-end web development.
+- ## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
